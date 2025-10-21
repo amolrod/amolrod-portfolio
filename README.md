@@ -255,4 +255,4 @@ MIT License - Siéntete libre de usar este template para tu portfolio.
 
 ---
 
-Hecho con ❤️ y Next.js por Ángel Molina
+Hecho con Next.js por Ángel Molina
